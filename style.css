@@ -1,0 +1,24 @@
+body {
+    background-color: #cecece;
+}
+.kotak{
+  background-color: #ffffff;
+  width: 70%;
+  margin: 50px auto;
+  margin-bottom: 90%;
+  padding: 20px;
+  border-radius: 5%;
+}
+.gambar{
+  border: 1px solid black;
+  border-radius: 50%;
+  text-align: center;
+  margin: auto;
+}
+span{
+  text-align: center;
+}
+footer{
+  text-align: center;
+  color: #898989;
+}
